@@ -1,2 +1,2 @@
-# beagle-bone-traffic-light
-Script for a traffic light functionality on Beagle Bone
+# Traffic Lights using BBB
+Script for a traffic light functionality on BBB
